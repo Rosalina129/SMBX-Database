@@ -1,0 +1,6 @@
+health=6
+fireballdmg=1
+jumpdmg=1
+hammerdmg=-1
+cliffturn=1
+scripts=Goomba
